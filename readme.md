@@ -2,7 +2,7 @@
 > Mint web sign-up
 
 ## Screenshot (s)
-![youtube-shots](https://user-images.githubusercontent.com/57622276/127785899-c3ee24af-2735-4dcb-a2e8-db4e6045812a.JPG)
+![image](https://user-images.githubusercontent.com/57622276/131470926-4497e3ed-73f9-46e4-810b-8f8a3f0bd7cd.png)
 
 ## Built with
 
